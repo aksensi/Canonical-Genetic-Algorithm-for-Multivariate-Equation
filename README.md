@@ -1,1 +1,1 @@
-# Canonical-Genetic-Algorithm-for-Multivariate-Equation
+# Canonical Genetic Algorithm for Multivariate Equation
