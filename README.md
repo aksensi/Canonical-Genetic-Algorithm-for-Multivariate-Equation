@@ -16,7 +16,10 @@ NCSU ECE-592(084) (Optimization and Algorithms) Project 1
 - Implement the Canonical Genetic Algorithm for the given Multivariate Equation, and produce plots of the best, average, and the worst objective function values in the population for every generation.
   
 ## About
-- ak_codes has the code file which has comments for reference. The input function is predefined and the CGA finds the global maxima of the function and global minima is multiplied with -1.
+- ak_codes has the code file which has comments for reference. 
+- CgeneticAlgo is the main code and CrossMuta, bit2num, and evaluationSelect are the defination/functiono codes required so saving them is suggested.
+- The input function is predefined and the CGA finds the global maxima of the function and global minima if the function is multiplied with -1.
+- The output Graph will different for each time one runs the code but the end point will always be the same.
 
 
 ## Author
